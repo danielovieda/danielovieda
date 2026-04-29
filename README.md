@@ -16,7 +16,6 @@ launched Dec 2025.
 PostgreSQL · MongoDB · AWS · Vercel · Anthropic SDK · Ollama
 
 📍 San Francisco Bay Area  
-🌐 [danielovieda.com](https://danielovieda.com)  
 ✉️ ovieda@gmail.com
 
 > Most of my current work lives in private repos for shipping products. 
