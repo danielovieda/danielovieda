@@ -4,9 +4,9 @@ Founder & Lead Engineer at **RefriTrak** — multi-tenant B2B SaaS,
 launched Dec 2025.
 
 **Currently building:**
-- 🛠 RefriTrak — Next.js 15, TypeScript, MongoDB + Prisma, Stripe, Anthropic SDK. 
-- 🤖 Multi-agent LLM systems — Anthropic SDK (Sonnet + Opus, prompt caching, tool use)
-- 🧠 Local-LLM experimentation — Ollama, QLoRA fine-tuning data pipelines
+- RefriTrak — Next.js 15, TypeScript, MongoDB + Prisma, Stripe, Anthropic SDK. 
+- Multi-agent LLM systems — Anthropic SDK (Sonnet + Opus, prompt caching, tool use)
+- Local-LLM experimentation — Ollama, QLoRA fine-tuning data pipelines
 
 **Previously:**
 - Lead Full Stack Engineer @ FormDr (HIPAA telehealth) — 
